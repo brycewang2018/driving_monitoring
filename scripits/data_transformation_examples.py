@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Project Goal: Driver behavior monitoring image classification
-File Goal: Data cleaning and preprocessing
+File Goal: Exploring data transformation techniques
 """
 
 import numpy as np
